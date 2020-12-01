@@ -7,7 +7,7 @@
 O projeto **ManagerProduct** é uma aplicação para controle de produto, no qual o usuário poderá fazer cadastro e se autenticar-se na aplicação assim sendo redirecionado automaticamente ao Dashboard, contendo as funcionalidades de Cadastro, Edição e Remoção do produto. Além de ter um área para editar o perfil, podendo adicionar um avatar, trocando nome, senha, email e fazendo logout da aplicação.
 Este projeto tem fim de praticar e estudar.
 
-<!-- [**Link para o Frontend:**](https://github.com/CarlosAugusto2128/authenticated-notify-frontend) -->
+[**Link para o Frontend:**](https://github.com/CarlosAug-tech/managerproduct-web)
 
 ---
 
