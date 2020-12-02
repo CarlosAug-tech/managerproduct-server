@@ -4,8 +4,15 @@
 
 ## 📋 Sobre
 
-O projeto **ManagerProduct** é uma aplicação para controle de produto, no qual o usuário poderá fazer cadastro e se autenticar-se na aplicação assim sendo redirecionado automaticamente ao Dashboard, contendo as funcionalidades de Cadastro, Edição e Remoção do produto. Além de ter um área para editar o perfil, podendo adicionar um avatar, trocando nome, senha, email e fazendo logout da aplicação.
-Este projeto tem fim de praticar e estudar.
+O projeto **ManagerProduct** é uma aplicação para controle de produto, no qual o usuário poderá fazer cadastro e se autenticar-se na aplicação assim sendo redirecionado automaticamente ao Dashboard, contendo as funcionalidades de Cadastro, Edição e Remoção do produto. Além de ter uma área para editar o perfil, podendo adicionar um avatar, trocando nome, senha, email e fazendo logout da aplicação.
+Este projeto tem objetivo de praticar e estudar.
+
+---
+
+### 🌍 Version English
+
+The project **ManagerProduct** is a application to product control, in which the user make can register and authenticate in the application, so beign automatically redirected to Dashboard, containing functionalities of Register, Edit and Removing of Product. Besides having a area to perfil edit, can add a avatar, changing name, password, email and maked logout of application.
+This project aims to practice and study.
 
 [**Link para o Frontend:**](https://github.com/CarlosAug-tech/managerproduct-web)
 
